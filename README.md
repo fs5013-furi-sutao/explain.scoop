@@ -22,6 +22,11 @@ Scoop のインストールは、以下の別ファイルを参照。
 
 [Scoop のインストール方法](./02.how_to_install_scoop.md)
 
+## 手を動かして Scoop の概念を知ろう！
+次のチュートリアルは、Scoop でできること、入門的なことをハンズオンを通して理解していく。
+
+[Scoop 入門チュートリアル](./03.scoop_beginners_tutotial.md)
+
 ## ほしいアプリをインストールするには
 最も基本的な Scoop のコマンドは以下の通り。
 
@@ -94,8 +99,3 @@ scoop help ＜コマンド＞
 ```
 scoop help bucket
 ```
-
-## 手を動かして Scoop の概念を知ろう！
-次のチュートリアルは、Scoop でできること、入門的なことをハンズオンを通して理解していく。
-
-[Scoop 入門チュートリアル](./03.scoop_beginners_tutotial.md)
