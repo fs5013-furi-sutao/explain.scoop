@@ -1,5 +1,5 @@
 # Scoop とは
-Windows 向けのパッケージ（アプリ）管理システムのこと。
+Windows 向けのパッケージ（アプリ）管理ツールのこと。
 公式サイトでは `A command-line installer for Windows` （Windows 向けコマンドラインインストーラー）と説明している。
 
 公式サイト: 
